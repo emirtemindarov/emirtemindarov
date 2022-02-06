@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @emirtemindarov
-- 👀 I’m interested in learning C++
-- 🌱 And I'm currently learning C++
+- 👀 I’m interested in learning C++ and JavaScript
+- 🌱 And I'm currently learning JavaScript and C++
 - 📫 temindarov.e.i.20@gmail.com
 - 📞 +79788743680
 
