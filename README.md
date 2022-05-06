@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @emirtemindarov
-- 👀 I’m interested in learning C++ and JavaScript
-- 🌱 And I'm currently learning JavaScript and C++
-- 📫 temindarov.e.i.20@gmail.com
-- 📞 +79788743680
+- 👀 I’m interested in learning 
+- 🌱 And I'm currently learning 
+- 📫 
+- 📞 
 
 <!---
 emirtemindarov/emirtemindarov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
