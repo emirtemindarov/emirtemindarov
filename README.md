@@ -1,5 +1,6 @@
 @emirtemindarov
 temindarov.e.i.20@gmail.com
+https://g.dev/emirtemindarov
 
 <!---
 emirtemindarov/emirtemindarov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
