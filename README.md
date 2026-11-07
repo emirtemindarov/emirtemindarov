@@ -22,38 +22,41 @@
 ### Основной стек:
 
 [![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/)
-
 [![Android](https://img.shields.io/badge/Android-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/)
+[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
 [![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=flat&logo=jetpackcompose&logoColor=white)](https://developer.android.com/compose)
+
 [![Material 3](https://img.shields.io/badge/Material_3-6750A4?style=flat&logo=materialdesign&logoColor=white)](https://m3.material.io/)
 [![AndroidX](https://img.shields.io/badge/AndroidX-3DDC84?style=flat&logo=android&logoColor=white)](https://developer.android.com/jetpack/androidx)
-
 [![Ktor](https://img.shields.io/badge/Ktor-087CFA?style=flat&logo=ktor&logoColor=white)](https://ktor.io/)
 [![Room](https://img.shields.io/badge/Room-59666C?style=flat&logo=android&logoColor=white)](https://developer.android.com/training/data-storage/room)
+[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
 [![Retrofit](https://img.shields.io/badge/Retrofit-48B983?style=flat&logo=square&logoColor=white)](https://square.github.io/retrofit/)
 [![OkHttp](https://img.shields.io/badge/OkHttp-3E4348?style=flat&logo=square&logoColor=white)](https://square.github.io/okhttp/)
 [![Kotlin Coroutines](https://img.shields.io/badge/Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white)](https://kotlinlang.org/docs/coroutines-overview.html)
-[![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)](https://sqlite.org/)
+[![Type-Safe Navigation](https://img.shields.io/badge/Type--Safe_Navigation-4285F4?style=flat&logo=android&logoColor=white)](https://developer.android.com/guide/navigation/design/type-safety)
 
 [![OpenAI API](https://img.shields.io/badge/OpenAI_API-412991?style=flat&logo=openai&logoColor=white)](https://platform.openai.com/)
 [![Responses API](https://img.shields.io/badge/Responses_API-412991?style=flat&logo=openai&logoColor=white)](https://platform.openai.com/docs/api-reference/responses)
+
 [![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)](https://ollama.com/)
 [![Qwen](https://img.shields.io/badge/Qwen-615CED?style=flat&logo=alibabacloud&logoColor=white)](https://qwen.ai/)
-[![JSON Schema](https://img.shields.io/badge/JSON_Schema-000000?style=flat&logo=json&logoColor=white)](https://json-schema.org/)
 
 [![REST API](https://img.shields.io/badge/REST_API-005571?style=flat&logo=fastapi&logoColor=white)](https://en.wikipedia.org/wiki/REST)
 [![HTTP Streaming](https://img.shields.io/badge/HTTP_Streaming-005571?style=flat&logo=fastapi&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/Streams_API)
+[![JSON Schema](https://img.shields.io/badge/JSON_Schema-000000?style=flat&logo=json&logoColor=white)](https://json-schema.org/)
 
 [![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat&logo=gradle&logoColor=white)](https://gradle.org/)
 [![Maven](https://img.shields.io/badge/Maven-C71A36?style=flat&logo=apachemaven&logoColor=white)](https://maven.apache.org/)
 [![JitPack](https://img.shields.io/badge/JitPack-000000?style=flat&logo=jitpack&logoColor=white)](https://jitpack.io/)
+
+[![JUnit](https://img.shields.io/badge/JUnit-25A162?style=flat&logo=junit5&logoColor=white)](https://junit.org/)
 
 [![JSON](https://img.shields.io/badge/JSON-000000?style=flat&logo=json&logoColor=white)](https://www.json.org/)
 [![TOML](https://img.shields.io/badge/TOML-9C4121?style=flat&logo=toml&logoColor=white)](https://toml.io/)
 
 [![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)](https://git-scm.com/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/)
-[![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=flat&logo=androidstudio&logoColor=white)](https://developer.android.com/studio)
 
 #### Ранее использовал/изучал/рассматривал в различной степени:
 
@@ -72,6 +75,7 @@
 [![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white)](https://code.visualstudio.com/)
 
 [![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black)](https://firebase.google.com/)
+[![Mockito](https://img.shields.io/badge/Mockito-78A641?style=flat&logo=mockito&logoColor=white)](https://site.mockito.org/)
 
 [![crates.io](https://img.shields.io/badge/crates.io-000000?style=flat&logo=rust&logoColor=white)](https://crates.io/)
 
