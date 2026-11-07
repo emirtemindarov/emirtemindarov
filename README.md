@@ -2,9 +2,15 @@
 # Contacts
 
 - GitHub: @emirtemindarov  
-- Email: temindarov.e.i.20@gmail.com  
+- E-mail: temindarov.e.i.20@gmail.com
+- Discord: https://discord.com/users/698111180878905345
+
+
+# Profiles
 - Google Developer Profile: https://g.dev/emirtemindarov
 - Telegram: https://t.me/temindarov_emir
+- ORCID: https://orcid.org/0009-0000-9388-632X
+- Hugging Face: https://huggingface.co/emirtemindarov
 ```
 
 
